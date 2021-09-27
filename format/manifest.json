@@ -1,0 +1,21 @@
+{
+  "name": "Format",
+  "description": "Filename Formatter",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "format.html",
+    "default_icon": {
+      "16": "/images/formatter16.png",
+      "32": "/images/formatter32.png",
+      "48": "/images/formatter48.png",
+      "128": "/images/formatter128.png"
+    }
+  },
+  "icons": {
+    "16": "/images/formatter16.png",
+    "32": "/images/formatter32.png",
+    "48": "/images/formatter48.png",
+    "128": "/images/formatter128.png"
+  }
+}
